@@ -32,7 +32,7 @@ then
 
 elif [ "$planet" == serveo-Network ]
 then
-    xterm -hold -T "Hacker-Exploit" -e "ssh -R $PORT:$IP:$PORT Serveo.net" &
+    xterm -hold -T "Hacker-Exploit" -e "ssh -R $PORT:$IP:$PORT serveo.net" &
 
 elif [ "$planet" == back ]
 then
