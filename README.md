@@ -7,7 +7,6 @@ if you want you use for educational purpose
 1. git clone https://github.com/wh-hackerexploit/wh-forward.git
 2. chmod 777 *
 3. bash ./run.sh
-or ./run.sh
 
 # Test on OS
 * kali- Linux
