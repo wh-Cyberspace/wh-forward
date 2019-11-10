@@ -6,8 +6,10 @@ echo "==========================================================================
 			apt-get install nmap -y
 			apt-get install ssh -y
 			apt-get install apache2 -y
-
-			unzip ./ngrokamd64.zip
+                        apt-get install wget -y
+			wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+			chmod 777 *
+			unzip ./ngrok-stable-linux-amd64.zip
 echo "==========================================================================="
 
 			echo "please input your ngrok 'authtoken' ."
