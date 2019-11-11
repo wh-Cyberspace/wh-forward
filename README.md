@@ -12,4 +12,9 @@ if you want you use for educational purpose
 * kali- Linux
 
 # Youtube video
-link : coming soon 
+link : https://youtu.be/lxGGfCarV9o
+
+
+
+
+
